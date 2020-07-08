@@ -1,4 +1,4 @@
-f9ed34ae8e69daba963dc9edac6451ef *DESCRIPTION
+e8e75d9558dbc7413cbf04833b7a5d78 *DESCRIPTION
 61843f00d765c9a381fdcc8044c0cb07 *LICENSE
 7a4a877bc35c821da8dadee9d528ed9b *NAMESPACE
 36d2e0780403ffb96868c6be9f0e0ca7 *R/aspect_ratio.R
@@ -22,7 +22,7 @@ fbb7fe9963500fb64eaf0f03d1378d5e *R/name_errors.R
 8a42f3459083588ddb7908e1958c9310 *R/trophic_level.R
 9355e4305e00b3a064daadaa8d1acdab *R/weight_prop.R
 c92941450039e30cbf8be849b09c507b *R/wprop.R
-e47267d2054a46334e6de2dc6f1a6e56 *README.md
+94fba18455afff247cb708c87dfaa420 *README.md
 42dd76c6ec2aa12f261788cd1b1dbe86 *build/vignette.rds
 1cc60bdd8610449d30184e0bb374bf46 *configure
 6bea7bdbd44ffa386677bfdec2d1984b *configure.win
@@ -32,10 +32,10 @@ e47267d2054a46334e6de2dc6f1a6e56 *README.md
 1ed91935edad6cc721dc6dfe2007f5d0 *inst/CITATION
 804e2ad887b4c878776767102b628f5a *inst/doc/intro_to_fishflux.R
 8747ee959b164e4e489329ce14b60f99 *inst/doc/intro_to_fishflux.Rmd
-e042d72975498efdad0489b60a93c5d2 *inst/doc/intro_to_fishflux.html
+a52d134b1dbf6920ee7d5ff73b5fb3ff *inst/doc/intro_to_fishflux.html
 855c064dbf8deaff96c8dc8a87169109 *inst/include/stan_meta_header.hpp
 46d8aa70965efe81816b1a76d4b74bd3 *inst/stan/cnpmodelmcmc.stan
-0a08a0cc418f15d4c2ef3e3559da1674 *inst/stan/getB0.stan
+8aaa546b6c789d1b705724e1297e526a *inst/stan/getB0.stan
 ee8b077c989d71f42c7effcf9348814d *inst/stan/include/license.stan
 182fc6f3793999f3a8d2ca70946cc939 *man/aspect_ratio.Rd
 c7e1c13b13ebc430cc315c946818a97c *man/check_name_fishbase.Rd

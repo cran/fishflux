@@ -1,6 +1,6 @@
 Package: fishflux
 Title: Model Elemental Fluxes in Fishes
-Version: 0.0.1
+Version: 0.0.1.1
 Authors@R: c(
     person("Nina M. D.", "Schiettekatte", , "nina.schiettekatte@gmail.com", c("aut", "cre")),
     person("Diego", "Barneche", , "d.barneche@aims.gov.au", "aut")
@@ -29,9 +29,9 @@ RoxygenNote: 7.1.0
 VignetteBuilder: knitr
 Biarch: true
 NeedsCompilation: yes
-Packaged: 2020-07-02 11:12:47 UTC; nschiettekatte
+Packaged: 2020-07-08 16:27:48 UTC; nschiettekatte
 Author: Nina M. D. Schiettekatte [aut, cre],
   Diego Barneche [aut]
 Maintainer: Nina M. D. Schiettekatte <nina.schiettekatte@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-07-03 14:20:03 UTC
+Date/Publication: 2020-07-08 22:40:02 UTC
