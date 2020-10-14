@@ -1,12 +1,12 @@
-09fedb9e070c52070eb6efde4ca886f3 *DESCRIPTION
+e9f239f49f3f8e736bdaad1e222b380e *DESCRIPTION
 61843f00d765c9a381fdcc8044c0cb07 *LICENSE
-7a4a877bc35c821da8dadee9d528ed9b *NAMESPACE
+4f8fcf87a1e0784971c4249b5780642d *NAMESPACE
 214986ca24181c5119bada6a1250b1f5 *NEWS.md
 36d2e0780403ffb96868c6be9f0e0ca7 *R/aspect_ratio.R
 84a60e8831c4571416f7fd1dfa05a198 *R/check_name_fishbase.R
 5a8c91e9fd572037297e3f3e2a675416 *R/cnp_model_mcmc.R
 593cb702496a89c42f58bda2a27d658f *R/extract.R
-fab8a87740ec95b77b74af2302dd1b48 *R/find_lw.R
+e86490cf29da8fd50f4283caa2930b33 *R/find_lw.R
 80fcfc6563c21d16a9c22428b1d1a1b9 *R/fishflux-package.R
 9fa2dc613b2aae98b0a56ad8fd986613 *R/global.R
 b55e27c8753304bb91d5e6cfdfe7e242 *R/growth_params.R
@@ -23,7 +23,7 @@ fbb7fe9963500fb64eaf0f03d1378d5e *R/name_errors.R
 8a42f3459083588ddb7908e1958c9310 *R/trophic_level.R
 9355e4305e00b3a064daadaa8d1acdab *R/weight_prop.R
 c92941450039e30cbf8be849b09c507b *R/wprop.R
-54f1bd900759db393a23c6f3a5b3da0d *README.md
+6908d2d71182d02df0703fcaa68aa5ce *README.md
 42dd76c6ec2aa12f261788cd1b1dbe86 *build/vignette.rds
 1cc60bdd8610449d30184e0bb374bf46 *configure
 6bea7bdbd44ffa386677bfdec2d1984b *configure.win
@@ -31,9 +31,9 @@ c92941450039e30cbf8be849b09c507b *R/wprop.R
 8bfe692f84014e89473d18b76d95c500 *data/param_zebsco.rda
 0d3d337170b58dfdb10efa0f5aae27c4 *data/weight_prop.rda
 1ed91935edad6cc721dc6dfe2007f5d0 *inst/CITATION
-804e2ad887b4c878776767102b628f5a *inst/doc/intro_to_fishflux.R
-8747ee959b164e4e489329ce14b60f99 *inst/doc/intro_to_fishflux.Rmd
-6f30e5d2f0134c438d88033639ff02af *inst/doc/intro_to_fishflux.html
+bd014c53db00d3d0abb1224cff2cf710 *inst/doc/intro_to_fishflux.R
+8f6f462d1a5660bdc313bf868afae356 *inst/doc/intro_to_fishflux.Rmd
+e65aabc2df5b0a5171f5382b911fec5d *inst/doc/intro_to_fishflux.html
 855c064dbf8deaff96c8dc8a87169109 *inst/include/stan_meta_header.hpp
 46d8aa70965efe81816b1a76d4b74bd3 *inst/stan/cnpmodelmcmc.stan
 8aaa546b6c789d1b705724e1297e526a *inst/stan/getB0.stan
@@ -79,4 +79,4 @@ a1e269780dd1c863dd5f2388f6f87561 *tests/testthat/test-sensitivity.R
 2dd000b2ab7260cd39bea093f8d0aded *tests/testthat/test-trophic_level.R
 75b361ea15ab7102921e6c1ca7972337 *tests/testthat/test-wprop.R
 69323da3e06eecea42ce683a1459b57c *vignettes/bibliography.bib
-8747ee959b164e4e489329ce14b60f99 *vignettes/intro_to_fishflux.Rmd
+8f6f462d1a5660bdc313bf868afae356 *vignettes/intro_to_fishflux.Rmd

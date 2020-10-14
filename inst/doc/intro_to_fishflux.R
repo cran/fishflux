@@ -55,7 +55,7 @@ fishflux::name_errors("Zebrazoma scopas")
 
 ## ----message=TRUE,echo=TRUE---------------------------------------------------
 # example
-fishflux::find_lw("Zebrasoma scopas", mirror = "us")
+fishflux::find_lw("Zebrasoma scopas", mirror = "se")
 
 ## ----message=FALSE,echo=TRUE--------------------------------------------------
 # example
