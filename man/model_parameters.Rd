@@ -17,14 +17,14 @@ model_parameters(sp, family, otolith = TRUE, temp, ...)
 
 \item{...}{Additional arguments to \code{\link{find_lw}}.}
 }
+\value{
+Returns a dataframe with all parameters that can be estimated
+}
 \description{
 A function to find a set of parameters
 }
-\details{
-Returns a dataframe with all parameters that can be estimated
-}
 \examples{
-\donttest{
+\dontrun{
 library(fishflux)
 model_parameters(sp = "Scarus psittacus", family = "Scaridae", temp = 27)}
 

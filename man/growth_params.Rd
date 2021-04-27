@@ -11,6 +11,9 @@ growth_params(sp, otolith = TRUE)
 
 \item{otolith}{A logical value. If TRUE, only results from otolith analysis are returned. If false, all growth studies will be returned.}
 }
+\value{
+dataframe with available growth rate parameters from fishbase.
+}
 \description{
 A function to find growth parameters of a species using rfishbase.
 It returns a data frame containing K, t0 and Linf, the source.
@@ -18,11 +21,11 @@ This function is useful to see what is available on fishbase.
 Nevertheless, we strongly recommend to check the source and only use otolith based studies.
 }
 \examples{
-\donttest{library(fishflux)
-growth_params("Lutjanus griseus")}
-
+\dontrun{
+library(fishflux)
+growth_params("Lutjanus griseus")
+}
 }
 \keyword{fish}
 \keyword{fishbase}
-\keyword{level}
-\keyword{trophic}
+\keyword{growth}

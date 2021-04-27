@@ -8,8 +8,10 @@
 #' 
 #' @importFrom rfishbase validate_names
 #' 
+#' @returns A vector with the incorrect species names. 
+#' 
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library(fishflux)
 #' name_errors(c("Chlorurus spilurus", "Zebrasoma scopas"))
 #' name_errors(c("Chlorurus spilurus", "Zebrasoma copas"))}

@@ -9,12 +9,15 @@ name_errors(sp)
 \arguments{
 \item{sp}{A vector containing all your scientific species names.}
 }
+\value{
+A vector with the incorrect species names.
+}
 \description{
 This function allows you to check if there are errors
 in your fish species list and returns inaccurate scientific names
 }
 \examples{
-\donttest{
+\dontrun{
 library(fishflux)
 name_errors(c("Chlorurus spilurus", "Zebrasoma scopas"))
 name_errors(c("Chlorurus spilurus", "Zebrasoma copas"))}

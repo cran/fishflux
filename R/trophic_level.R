@@ -11,8 +11,10 @@
 #' @importFrom rfishbase ecology species species_list
 #' @importFrom dplyr select
 #' 
+#' @returns Returns a dataframe with species, trophic level, and taxonomy level.
+#' 
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library(fishflux)
 #' library(plyr)
 #' trophic_level("Lutjanus griseus")

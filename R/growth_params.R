@@ -8,15 +8,18 @@
 #' @param sp A charachter value containing the species name
 #' @param otolith A logical value. If TRUE, only results from otolith analysis are returned. If false, all growth studies will be returned.
 #' 
-#' @keywords fish trophic level fishbase
+#' @returns dataframe with available growth rate parameters from fishbase. 
+#' 
+#' @keywords fish growth fishbase
 #' 
 #' @importFrom rfishbase popgrowth
 #' @importFrom dplyr select filter
 #' 
 #' @examples
-#' \donttest{library(fishflux)
-#' growth_params("Lutjanus griseus")}
-#' 
+#' \dontrun{
+#' library(fishflux)
+#' growth_params("Lutjanus griseus")
+#' }
 #' @export
 growth_params <- function(sp, otolith = TRUE) {
   if (length(suppressMessages(name_errors(sp))) > 0) {

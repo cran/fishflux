@@ -6,13 +6,15 @@
 #'
 #' @param sp A character value containing the species name
 #' 
+#' @returns dataframe with species, aspect ratio and taxonomy level. 
+#' 
 #' @keywords fish aspect-ratio fishbase
 #' 
 #' @importFrom rfishbase morphometrics species_list
 #' @importFrom dplyr select summarise group_by select
 #'
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library(fishflux)
 #' library(plyr)
 #' aspect_ratio("Lutjanus griseus")

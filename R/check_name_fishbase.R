@@ -5,10 +5,12 @@
 #'
 #' @param sp A character value containing the species name
 #' 
+#' @returns returns an error if the species name is wrong.
+#' 
 #' @keywords fish fishbase taxonomy
 #' 
 #' @examples
-#' \donttest{
+#' \dontrun{
 #' library(fishflux)
 #' check_name_fishbase("Lutjanus griseus")
 #' }

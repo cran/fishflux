@@ -88,6 +88,7 @@ fishflux::plot_cnp(model,  y = "Fp", x = "tl", probs = c(0.5, 0.8, 0.95))
 fishflux::plot_cnp(model,  y = c("Fp", "Gp", "Ip", "Wp"), x = "tl", probs = 0.5)
 
 ## ---- message=FALSE-----------------------------------------------------------
-## General overview:
-fishflux::sensitivity(TL = 10, param = param_zebsco, par = c("Dn_sd", "Dp_sd", "Qn_sd", "Qp_sd", "k_sd"), out = c("Fn", "Fp", "Ic"))
+fishflux::sensitivity(TL = 10, param = list(k_sd = 0.2, Dn_sd = 0.2, Dc_sd = 0.1),
+            par = c("k_sd","Dn_sd","Dc_sd"), 
+            out = c("Ic", "In", "Ip", "Gc"))
 
