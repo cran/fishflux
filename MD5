@@ -1,4 +1,4 @@
-63ec07d011ff3a5c72f8cfd32f910697 *DESCRIPTION
+9e0186ab7d3ede83a4458a3a11a6fb09 *DESCRIPTION
 61843f00d765c9a381fdcc8044c0cb07 *LICENSE
 4f8fcf87a1e0784971c4249b5780642d *NAMESPACE
 214986ca24181c5119bada6a1250b1f5 *NEWS.md
@@ -23,8 +23,8 @@ deab2ea7ef9cd3f603d36cc6d56fb486 *R/plot_cnp.R
 6f90fc2bea6b6dad957864a6d11cc766 *R/trophic_level.R
 9355e4305e00b3a064daadaa8d1acdab *R/weight_prop.R
 7ca7c7ba130d159907b2adbc2a7d1d84 *R/wprop.R
-bb342bce669cf15bf93851f0fb9f29e7 *README.md
-5a66a8202a72ebad8743d97ae8aac4c6 *build/vignette.rds
+4ea818cbd2d41f22d80e2537d43bd284 *README.md
+24761c2bee45c42f76589df7ee5d5cd3 *build/vignette.rds
 1cc60bdd8610449d30184e0bb374bf46 *configure
 6bea7bdbd44ffa386677bfdec2d1984b *configure.win
 6f0a5fe1535a11550344fa2fa1c1c562 *data/metabolic_parameters.rda
@@ -33,7 +33,7 @@ bb342bce669cf15bf93851f0fb9f29e7 *README.md
 1ed91935edad6cc721dc6dfe2007f5d0 *inst/CITATION
 bf46af352b154bd702d7b8296f3a5eb1 *inst/doc/intro_to_fishflux.R
 a780a9f0f537ac044cb2baca8beddcf9 *inst/doc/intro_to_fishflux.Rmd
-9750ffaa524d0872470247ce8fb55d37 *inst/doc/intro_to_fishflux.html
+78b22ffee382f11dc2d847089d648ee1 *inst/doc/intro_to_fishflux.html
 855c064dbf8deaff96c8dc8a87169109 *inst/include/stan_meta_header.hpp
 46d8aa70965efe81816b1a76d4b74bd3 *inst/stan/cnpmodelmcmc.stan
 8aaa546b6c789d1b705724e1297e526a *inst/stan/getB0.stan
@@ -61,7 +61,7 @@ cdd1c4ceeda60f40077b49162437d3e2 *man/weight_prop.Rd
 99d32a98bf6e67400c4ea32a1e8f2af2 *man/wprop.Rd
 ec1f7adc46f14d6b1c5481244554415e *src/Makevars
 cebeb8bdd5adb558f381741990eb1085 *src/Makevars.win
-f2a5b384caa8624bc04463fd2f9a3949 *src/RcppExports.cpp
+cddf0bff35bd7809a844a67e50a16a0e *src/RcppExports.cpp
 4557165c5aa2083cc31b8ebe9f43aba0 *tests/testthat.R
 92862144d961d4e558c9a55378074869 *tests/testthat/helper_fishflux.R
 d1290d4455aeb9e03acc71c5a4373cb9 *tests/testthat/test-aspect_ratio.R
@@ -79,8 +79,8 @@ a1e269780dd1c863dd5f2388f6f87561 *tests/testthat/test-sensitivity.R
 75b361ea15ab7102921e6c1ca7972337 *tests/testthat/test-wprop.R
 69323da3e06eecea42ce683a1459b57c *vignettes/bibliography.bib
 a780a9f0f537ac044cb2baca8beddcf9 *vignettes/intro_to_fishflux.Rmd
-61e24408ad030c4c2b8d2238c62f4e8f *vignettes/intro_to_fishflux_cache/html/__packages
-67dac9778e5a8ddddaf6325de8c4662f *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-4_722a2466494093e70036ea9d5eddbda9.rdb
-88fdec3643662b5ad0ef030d553e833e *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-4_722a2466494093e70036ea9d5eddbda9.rdx
+4287620ca37c68e84b688c478661f2e2 *vignettes/intro_to_fishflux_cache/html/__packages
+9e35fe02d9919cc66179c41f463f0a81 *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-4_d75a6ead92325eb5e82c7639b9c97e42.rdb
+dd218c190379dff63ffc99cc2c35157a *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-4_d75a6ead92325eb5e82c7639b9c97e42.rdx
 fd98718c82fd3a82cb8f248109201113 *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-5_0efb6bf9e114d5ce90675a9bf3b906eb.rdb
 0e6fc73d2f48714d0fdee3d51a89c0d6 *vignettes/intro_to_fishflux_cache/html/unnamed-chunk-5_0efb6bf9e114d5ce90675a9bf3b906eb.rdx
